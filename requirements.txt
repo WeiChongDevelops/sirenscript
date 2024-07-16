@@ -1,0 +1,5 @@
+pydub
+flask
+torch
+openai-whisper
+pyaudio
