@@ -1,6 +1,5 @@
 # SirenScript - automatically transcribe and summarise key information for emergency responders.
 SirenScript serves as a crucial tool for emergency services, providing rapid transcription and summarisation of critical information during incidents.
-Explore SirenScript today at https://sirenscript.app/ !
 
 ## Primary Features
 
